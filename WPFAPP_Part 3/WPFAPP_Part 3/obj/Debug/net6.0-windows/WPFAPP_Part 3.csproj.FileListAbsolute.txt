@@ -1,0 +1,10 @@
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3_MarkupCompile.cache
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3.g.resources
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\WPFAPP_Part 3\WPFAPP_Part 3\obj\Debug\net6.0-windows\WPFAPP_Part 3.csproj.CoreCompileInputs.cache
